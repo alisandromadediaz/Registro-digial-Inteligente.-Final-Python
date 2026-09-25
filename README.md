@@ -6,9 +6,12 @@ Metodología **CRISP-ML(Q)** · Sistema Educativo Dominicano (MINERD) · Año es
 Fuente de datos: `3RO_B_REGISTRO_ESCOLAR_2026_2027.xlsx` (libro de registro del docente).
 
 **Enlaces de entrega del proyecto:** 
+
 1.Streamlit:https://registro-digital.streamlit.app/
+
 2.Repositorio GitHub:https://github.com/alisandromadediaz/Registro-digial-Inteligente.-Final-Python.git
-3. LandinPage:
+
+3. LandinPage:https://alisandromadediaz.github.io/Registro-digial-Inteligente.-Final-Python/
 
 
 ## 1. Qué hace este proyecto
